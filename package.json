@@ -1,0 +1,11 @@
+{
+  "name": "manager-home-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Splice-styled Helix manager onboarding stitched to the Day 0 home prototype.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  }
+}
